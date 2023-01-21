@@ -1,0 +1,15 @@
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\bin\Debug\net7.0\Example_001.exe
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\bin\Debug\net7.0\Example_001.deps.json
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\bin\Debug\net7.0\Example_001.runtimeconfig.json
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\bin\Debug\net7.0\Example_001.dll
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\bin\Debug\net7.0\Example_001.pdb
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\Example_001.csproj.AssemblyReference.cache
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\Example_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\Example_001.AssemblyInfoInputs.cache
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\Example_001.AssemblyInfo.cs
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\Example_001.csproj.CoreCompileInputs.cache
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\Example_001.dll
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\refint\Example_001.dll
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\Example_001.pdb
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\Example_001.genruntimeconfig.cache
+C:\Users\VeNoM\Desktop\Seminary C#\Seminar_01\Example_001\obj\Debug\net7.0\ref\Example_001.dll

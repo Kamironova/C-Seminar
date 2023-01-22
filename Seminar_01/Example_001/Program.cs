@@ -1,7 +1,7 @@
-﻿int a;
+﻿int a;    // Число которое ведет пользователь
 
-string str = Console.ReadLine();
+string str = Console.ReadLine();  // Readline считает введеное значение в формате стороки
 
-a = Convert.ToInt32(str);
+a = Convert.ToInt32(str);  // Конвертирует строку в число
 
-Console.WriteLine(a * a);
+Console.WriteLine(a * a);    // Умножит число само на себя и выведет резулитат на консоль

@@ -11,4 +11,4 @@ while (i <= a)
 {
     System.Console.Write(i + " ");
     i++;
-};
+}

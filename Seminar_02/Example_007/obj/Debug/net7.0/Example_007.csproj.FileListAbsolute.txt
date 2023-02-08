@@ -1,0 +1,15 @@
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/bin/Debug/net7.0/Example_007
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/bin/Debug/net7.0/Example_007.deps.json
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/bin/Debug/net7.0/Example_007.runtimeconfig.json
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/bin/Debug/net7.0/Example_007.dll
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/bin/Debug/net7.0/Example_007.pdb
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/Example_007.csproj.AssemblyReference.cache
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/Example_007.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/Example_007.AssemblyInfoInputs.cache
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/Example_007.AssemblyInfo.cs
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/Example_007.csproj.CoreCompileInputs.cache
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/Example_007.dll
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/refint/Example_007.dll
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/Example_007.pdb
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/Example_007.genruntimeconfig.cache
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_02/Example_007/obj/Debug/net7.0/ref/Example_007.dll

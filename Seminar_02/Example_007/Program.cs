@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿// Напмшите программу которая принемает 2 числа и проверяет кратно ли 
+// второе число первому. Если второе число не кратно выводит остаток от деления
+
+Console.Clear();
 
 System.Console.WriteLine("Enter number 1 -->");
 double a = Convert.ToUInt64(Console.ReadLine());

@@ -3,7 +3,7 @@
 
 Console.Clear();
 
-int [] myArray = new int [7];
+int [] myArray = new int [8];
 
 Random rand = new Random();
     for (int x = 0; x < myArray.Length; x++)

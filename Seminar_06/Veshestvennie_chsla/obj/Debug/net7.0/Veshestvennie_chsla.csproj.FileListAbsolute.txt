@@ -1,0 +1,15 @@
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/bin/Debug/net7.0/Veshestvennie_chsla
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/bin/Debug/net7.0/Veshestvennie_chsla.deps.json
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/bin/Debug/net7.0/Veshestvennie_chsla.runtimeconfig.json
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/bin/Debug/net7.0/Veshestvennie_chsla.dll
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/bin/Debug/net7.0/Veshestvennie_chsla.pdb
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/Veshestvennie_chsla.csproj.AssemblyReference.cache
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/Veshestvennie_chsla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/Veshestvennie_chsla.AssemblyInfoInputs.cache
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/Veshestvennie_chsla.AssemblyInfo.cs
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/Veshestvennie_chsla.csproj.CoreCompileInputs.cache
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/Veshestvennie_chsla.dll
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/refint/Veshestvennie_chsla.dll
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/Veshestvennie_chsla.pdb
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/Veshestvennie_chsla.genruntimeconfig.cache
+/Users/kamironova/Desktop/C# Seminar/C-Seminar/Seminar_06/Veshestvennie_chsla/obj/Debug/net7.0/ref/Veshestvennie_chsla.dll

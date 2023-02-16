@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Veshestvennie_chsla/1.0.0": {
+        "runtime": {
+          "Veshestvennie_chsla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Veshestvennie_chsla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

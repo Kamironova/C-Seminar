@@ -16,7 +16,7 @@ FillArray(arr);
 
 foreach (var item in arr)
 {
-    System.Console.WriteLine(item);
+    System.Console.WriteLine(Math.Round(item, 2));  // Тут можно указать сколько цифр после запятой выводить
 }
 
 double genRndDouble(int a, int b, Random rnd)
